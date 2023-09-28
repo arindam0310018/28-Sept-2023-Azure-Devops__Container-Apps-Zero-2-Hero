@@ -91,7 +91,7 @@ I had the Privilege to talk on this topic in __ONE__ Azure Communities:-
 | --------- |
 
 | __#__ | __SCALE CRITERIA__ | __DESCRIPTION__ |  __IMAGE__ | 
-| --------- | --------- | --------- | --------- |  --------- |
+| --------- | --------- | --------- | --------- | 
 | 1. | HTTP Traffic | The number of concurrent HTTP requests are split between former and new Container Apps Revision | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b5cr713rq86tjo7dst41.png) |
 | 2. | Event Driven | Scaling is determined by number of messages in the queue. | ![Image description](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ihyr3ukeduw3r2l4tcg3.png) |
 | 3. | CPU or Memory | Scaling is determined by increase of CPU and memory consumption. | - |
